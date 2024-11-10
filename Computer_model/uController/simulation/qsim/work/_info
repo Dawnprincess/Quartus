@@ -1,0 +1,75 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/uController/simulation/qsim
+vhard_block
+Z0 !s110 1730291586
+!i10b 1
+!s100 lK2CPaLIKZEzRk36Cbc8P1
+I]_F@fzoh4FXH1[NLH<<Wj3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dD:/yingjian/uController/simulation/qsim
+Z3 w1730291585
+Z4 8uController.vo
+Z5 FuController.vo
+L0 2441
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1730291586.000000
+Z8 !s107 uController.vo|
+Z9 !s90 -work|work|uController.vo|
+!i113 1
+Z10 o-work work
+Z11 tCvgOpt 0
+vuController
+R0
+!i10b 1
+!s100 UlhH=DRbUE5N5z3n31IY93
+I272JQ3dM^[hYXLgD3WmJ70
+R1
+R2
+R3
+R4
+R5
+L0 31
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+nu@controller
+vuController_vlg_vec_tst
+R0
+!i10b 1
+!s100 5jUUj^n[SMEQ?6CTG]J4O3
+I2]U0ho]oSA;SMGNHJ6Q3Q0
+R1
+R2
+R3
+8Waveform.vwf.vt
+FWaveform.vwf.vt
+L0 29
+R6
+r1
+!s85 0
+31
+R7
+!s107 Waveform.vwf.vt|
+!s90 -work|work|Waveform.vwf.vt|
+!i113 1
+R10
+R11
+nu@controller_vlg_vec_tst

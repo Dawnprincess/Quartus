@@ -1,0 +1,233 @@
+------------------------------------------------------------
+Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'Timing:inst1|inst3'
+Slack : -15.509
+TNS   : -453.253
+
+Type  : Slow 1200mV 85C Model Setup 'Timing:inst1|inst'
+Slack : -13.877
+TNS   : -27.366
+
+Type  : Slow 1200mV 85C Model Setup 'Timing:inst1|inst1'
+Slack : -11.549
+TNS   : -58.360
+
+Type  : Slow 1200mV 85C Model Setup 'Timing:inst1|inst2'
+Slack : -10.102
+TNS   : -215.239
+
+Type  : Slow 1200mV 85C Model Setup 'CLK1'
+Slack : -2.013
+TNS   : -9.662
+
+Type  : Slow 1200mV 85C Model Hold 'Timing:inst1|inst3'
+Slack : 0.052
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'CLK1'
+Slack : 1.385
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'Timing:inst1|inst'
+Slack : 1.544
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'Timing:inst1|inst2'
+Slack : 2.748
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'Timing:inst1|inst1'
+Slack : 3.662
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Recovery 'Timing:inst1|inst1'
+Slack : -12.850
+TNS   : -39.551
+
+Type  : Slow 1200mV 85C Model Recovery 'Timing:inst1|inst3'
+Slack : -6.759
+TNS   : -54.072
+
+Type  : Slow 1200mV 85C Model Removal 'Timing:inst1|inst1'
+Slack : 1.440
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'Timing:inst1|inst3'
+Slack : 1.659
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'Timing:inst1|inst1'
+Slack : -3.201
+TNS   : -18.525
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'Timing:inst1|inst'
+Slack : -3.201
+TNS   : -6.402
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'CLK1'
+Slack : -3.000
+TNS   : -10.435
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'Timing:inst1|inst3'
+Slack : -1.487
+TNS   : -71.887
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'Timing:inst1|inst2'
+Slack : -1.487
+TNS   : -35.688
+
+Type  : Slow 1200mV 0C Model Setup 'Timing:inst1|inst3'
+Slack : -14.524
+TNS   : -417.444
+
+Type  : Slow 1200mV 0C Model Setup 'Timing:inst1|inst'
+Slack : -12.955
+TNS   : -25.425
+
+Type  : Slow 1200mV 0C Model Setup 'Timing:inst1|inst1'
+Slack : -10.721
+TNS   : -54.073
+
+Type  : Slow 1200mV 0C Model Setup 'Timing:inst1|inst2'
+Slack : -9.334
+TNS   : -196.949
+
+Type  : Slow 1200mV 0C Model Setup 'CLK1'
+Slack : -2.027
+TNS   : -9.470
+
+Type  : Slow 1200mV 0C Model Hold 'Timing:inst1|inst3'
+Slack : -0.133
+TNS   : -0.429
+
+Type  : Slow 1200mV 0C Model Hold 'CLK1'
+Slack : 1.338
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'Timing:inst1|inst'
+Slack : 1.355
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'Timing:inst1|inst2'
+Slack : 2.373
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'Timing:inst1|inst1'
+Slack : 3.522
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Recovery 'Timing:inst1|inst1'
+Slack : -11.914
+TNS   : -37.143
+
+Type  : Slow 1200mV 0C Model Recovery 'Timing:inst1|inst3'
+Slack : -6.336
+TNS   : -50.688
+
+Type  : Slow 1200mV 0C Model Removal 'Timing:inst1|inst3'
+Slack : 1.294
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'Timing:inst1|inst1'
+Slack : 1.527
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'Timing:inst1|inst1'
+Slack : -3.201
+TNS   : -18.525
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'Timing:inst1|inst'
+Slack : -3.201
+TNS   : -6.402
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'CLK1'
+Slack : -3.000
+TNS   : -11.117
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'Timing:inst1|inst3'
+Slack : -1.487
+TNS   : -76.506
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'Timing:inst1|inst2'
+Slack : -1.487
+TNS   : -36.770
+
+Type  : Fast 1200mV 0C Model Setup 'Timing:inst1|inst3'
+Slack : -6.209
+TNS   : -157.717
+
+Type  : Fast 1200mV 0C Model Setup 'Timing:inst1|inst'
+Slack : -5.349
+TNS   : -10.493
+
+Type  : Fast 1200mV 0C Model Setup 'Timing:inst1|inst1'
+Slack : -4.232
+TNS   : -18.613
+
+Type  : Fast 1200mV 0C Model Setup 'Timing:inst1|inst2'
+Slack : -3.592
+TNS   : -75.050
+
+Type  : Fast 1200mV 0C Model Setup 'CLK1'
+Slack : -1.183
+TNS   : -5.346
+
+Type  : Fast 1200mV 0C Model Hold 'Timing:inst1|inst3'
+Slack : 0.281
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'Timing:inst1|inst'
+Slack : 0.618
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'CLK1'
+Slack : 0.696
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'Timing:inst1|inst2'
+Slack : 0.878
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'Timing:inst1|inst1'
+Slack : 1.505
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Recovery 'Timing:inst1|inst1'
+Slack : -4.755
+TNS   : -13.008
+
+Type  : Fast 1200mV 0C Model Recovery 'Timing:inst1|inst3'
+Slack : -2.306
+TNS   : -18.448
+
+Type  : Fast 1200mV 0C Model Removal 'Timing:inst1|inst1'
+Slack : 0.379
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'Timing:inst1|inst3'
+Slack : 0.499
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'CLK1'
+Slack : -3.000
+TNS   : -8.817
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'Timing:inst1|inst3'
+Slack : -1.000
+TNS   : -48.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'Timing:inst1|inst2'
+Slack : -1.000
+TNS   : -24.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'Timing:inst1|inst1'
+Slack : -1.000
+TNS   : -9.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'Timing:inst1|inst'
+Slack : -1.000
+TNS   : -2.000
+
+------------------------------------------------------------

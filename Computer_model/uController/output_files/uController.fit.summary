@@ -1,0 +1,16 @@
+Fitter Status : Successful - Sat Nov 02 18:42:07 2024
+Quartus Prime Version : 18.0.0 Build 614 04/24/2018 SJ Standard Edition
+Revision Name : uController
+Top-level Entity Name : uController
+Family : Cyclone IV E
+Device : EP4CE55F23C8
+Timing Models : Final
+Total logic elements : 54 / 55,856 ( < 1 % )
+    Total combinational functions : 52 / 55,856 ( < 1 % )
+    Dedicated logic registers : 11 / 55,856 ( < 1 % )
+Total registers : 11
+Total pins : 63 / 325 ( 19 % )
+Total virtual pins : 0
+Total memory bits : 1,536 / 2,396,160 ( < 1 % )
+Embedded Multiplier 9-bit elements : 0 / 308 ( 0 % )
+Total PLLs : 0 / 4 ( 0 % )
